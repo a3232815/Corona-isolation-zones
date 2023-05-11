@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cdc64d91d972450d9b990fa3e0a7a666" Name="Diagram1">
+        <EntityTypeShape EntityType="Corona_DBModel.City_tb" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Corona_DBModel.Image_tb" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Corona_DBModel.manufacturerVaccine_tb" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Corona_DBModel.Street_tb" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Corona_DBModel.CoronaDetails_tb" Width="1.5" PointX="5.25" PointY="4.25" />
+        <EntityTypeShape EntityType="Corona_DBModel.Person_tb" Width="1.5" PointX="3" PointY="2.5" />
+        <AssociationConnector Association="Corona_DBModel.FK__Person_tb__CityI__412EB0B6" />
+        <AssociationConnector Association="Corona_DBModel.FK__CoronaDet__manuf__4BAC3F29" />
+        <AssociationConnector Association="Corona_DBModel.FK__CoronaDet__Perso__4AB81AF0" />
+        <AssociationConnector Association="Corona_DBModel.FK__Person_tb__Image__4316F928" />
+        <AssociationConnector Association="Corona_DBModel.FK__Person_tb__Stree__4222D4EF" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

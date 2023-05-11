@@ -1,0 +1,210 @@
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\obj\Debug\HadasimServer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\obj\Debug\HadasimServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\obj\Debug\שרת שנה ג.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\obj\Debug\שרת שנה ג.pdb
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\שרת שנה ג.dll.config
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\שרת שנה ג.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\שרת שנה ג.pdb
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csc.exe
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csi.exe
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\EntityFramework.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Buffers.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Memory.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\EntityFramework.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Buffers.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Memory.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\מבחן הדסים\שרת שנה ג\שרת שנה ג\obj\Debug\HadasimServer.csproj.CopyComplete
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\שרת שנה ג.dll.config
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\שרת שנה ג.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\שרת שנה ג.pdb
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csc.exe
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csi.exe
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\EntityFramework.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Buffers.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Memory.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\EntityFramework.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Buffers.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Memory.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\obj\Debug\HadasimServer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\obj\Debug\HadasimServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\obj\Debug\HadasimServer.csproj.CopyComplete
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\obj\Debug\שרת שנה ג.dll
+C:\Users\User\Desktop\מבחן הדסים\CoronaExSerser\שרת שנה ג\obj\Debug\שרת שנה ג.pdb

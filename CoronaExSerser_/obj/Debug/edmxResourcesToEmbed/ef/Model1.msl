@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Corona_DBModelStoreContainer" CdmEntityContainer="Corona_DBEntities">
+    <EntitySetMapping Name="City_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.City_tb">
+        <MappingFragment StoreEntitySet="City_tb">
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="CityName" ColumnName="CityName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Image_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.Image_tb">
+        <MappingFragment StoreEntitySet="Image_tb">
+          <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+          <ScalarProperty Name="ImageData" ColumnName="ImageData" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="manufacturerVaccine_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.manufacturerVaccine_tb">
+        <MappingFragment StoreEntitySet="manufacturerVaccine_tb">
+          <ScalarProperty Name="manufacturerId" ColumnName="manufacturerId" />
+          <ScalarProperty Name="manufacturer" ColumnName="manufacturer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Street_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.Street_tb">
+        <MappingFragment StoreEntitySet="Street_tb">
+          <ScalarProperty Name="StreetId" ColumnName="StreetId" />
+          <ScalarProperty Name="StreetName" ColumnName="StreetName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CoronaDetails_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.CoronaDetails_tb">
+        <MappingFragment StoreEntitySet="CoronaDetails_tb">
+          <ScalarProperty Name="recoveryDate" ColumnName="recoveryDate" />
+          <ScalarProperty Name="positiveResultDate" ColumnName="positiveResultDate" />
+          <ScalarProperty Name="manufacturerVaccineId" ColumnName="manufacturerVaccineId" />
+          <ScalarProperty Name="vaccinationDate4" ColumnName="vaccinationDate4" />
+          <ScalarProperty Name="vaccinationDate3" ColumnName="vaccinationDate3" />
+          <ScalarProperty Name="vaccinationDate2" ColumnName="vaccinationDate2" />
+          <ScalarProperty Name="vaccinationDate1" ColumnName="vaccinationDate1" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="CoronaDetailsId" ColumnName="CoronaDetailsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Person_tb">
+      <EntityTypeMapping TypeName="Corona_DBModel.Person_tb">
+        <MappingFragment StoreEntitySet="Person_tb">
+          <ScalarProperty Name="ImageId" ColumnName="ImageId" />
+          <ScalarProperty Name="MobilePhone" ColumnName="MobilePhone" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+          <ScalarProperty Name="StreetId" ColumnName="StreetId" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
