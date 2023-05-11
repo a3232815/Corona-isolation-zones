@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.exe
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.deps.json
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.runtimeconfig.json
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.runtimeconfig.dev.json
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.dll
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\ref\twiterExercise.dll
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\bin\Debug\net5.0\twiterExercise.pdb
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.csprojAssemblyReference.cache
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.AssemblyInfo.cs
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.dll
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\ref\twiterExercise.dll
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.pdb
+C:\Users\User\Desktop\מבחן הדסים\twiterExercise\twiterExercise\obj\Debug\net5.0\twiterExercise.genruntimeconfig.cache
